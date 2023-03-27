@@ -48,3 +48,8 @@
     - Laptop and its keyboard
     - Laptop and its touchpad
     - Laptop and its monitor(screen)
+
+
+4. For case 1 and 2 of the association relationship, the laptop holds the custody
+
+5. The laptop can be connected to other external monitors. Likewise the monitor can be connected to other laptops

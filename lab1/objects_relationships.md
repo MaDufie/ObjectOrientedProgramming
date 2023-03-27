@@ -37,3 +37,14 @@
 
     __*Security Camera*__:
     - serial number
+
+
+
+3.  __Association__
+    - Laptop and external monitor
+    - Laptop and headset
+
+    __Composition__
+    - Laptop and its keyboard
+    - Laptop and its touchpad
+    - Laptop and its monitor(screen)

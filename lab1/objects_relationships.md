@@ -28,3 +28,12 @@
     __*Monitor*__:
     - mac address
     - serial number
+
+    __*Phone*__:
+    - build address
+
+    __*Employee*__:
+    - work ID
+
+    __*Security Camera*__:
+    - serial number
